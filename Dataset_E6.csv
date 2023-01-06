@@ -1,247 +1,247 @@
-PatientNo,age,Height,WTpre,WT12,WT48,BMIPpre,BMI12,BMI48,FMpre,FM12,FM48,FFMpre,FFM12,FFM48,EWL12,Sucs12,EWL48,Sucs48,FBSpre,FBS12,FBS48,a1cpre,DMpre,a1c12,DM12,a1c48,DM48,astpre,ast12,ast48,altpre,alt12,alt48,EXTYPEpre,EXTYPE12,EXTYPE48,INTENpre,INTEN12,INTEN48,MINDAYpre,MINDAY12,ExcerciseActivitiy12,MINDAY48,SWpre,SW12,SW48,Activity_Grade
-147,58,1.65,106.9,75.9,73.1,39.27,27.88,26.85,54.1,28.9,24.6,52.8,47,48.5,72.66,Good Response,79.91,Good Response,84,75,84,4.8,Non-diabetic,4.1,Non-diabetic,4.4,Non-diabetic,42,28,87,45,39,37,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,2,2,4,Partly Active
-118,38,1.6,106.7,73.2,76.4,41.68,28.59,29.84,53.6,28.5,32.3,53.1,44.7,44.1,93.64,Good Response,72.93,Good Response,115,107,154,5.9,Non-diabetic,5.3,Non-diabetic,6,Non-diabetic,85,65,56,73,62,60,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,2,4,Partly Active
-65,56,1.6,101.8,76.8,80.1,39.77,30,31.29,50.6,35.9,39.7,51.2,40.9,40.4,61.34,Good Response,56.48,Good Response,86,66,100,5,Non-diabetic,3.7,Non-diabetic,5,Non-diabetic,78,65,54,46,39,38,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,30,1,1,3,Partly Active
-174,46,1.75,109.5,83.4,89.1,35.76,27.23,29.09,52.3,27.6,32.1,57.2,55.8,57,76.52,Good Response,86.91,Good Response,90,86,94,5,Non-diabetic,3.9,Non-diabetic,4.9,Non-diabetic,67,56,54,72,45,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,15,Inactive,30,1,2,4,Partly Active
-126,60,1.5,106.8,69,77.6,47.47,30.67,34.49,56,24.1,29.3,50.8,44.9,48.3,96.76,Good Response,75.44,Good Response,80,73,98,5.2,Non-diabetic,3.8,Non-diabetic,4.5,Non-diabetic,67,56,54,72,45,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-28,37,1.68,106,75.2,82.3,37.56,26.64,29.16,42.1,16.2,25.4,63.9,59,56.9,81.93,Good Response,38.2,Poor Respnse,83,75,107,3.9,Non-diabetic,3.8,Non-diabetic,5.5,Non-diabetic,47,43,47,53,32,40,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,15,Inactive,15,2,2,1,Partly Active
-160,38,1.48,89.3,67.8,74.2,40.77,30.95,33.88,37.8,18.2,24.9,51.5,49.6,49.3,108.43,Good Response,83.23,Good Response,144,101,100,6.2,Non-diabetic,5.5,Non-diabetic,5,Non-diabetic,47,43,47,53,32,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-175,45,1.61,95.2,74,79.8,36.73,28.55,30.79,45.2,33.4,39.5,50,40.6,40.3,70.09,Good Response,87.24,Good Response,101,91,100,5.5,Non-diabetic,4.6,Non-diabetic,5.3,Non-diabetic,49,43,45,54,45,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-199,35,1.53,105.5,71,67.8,45.07,30.33,28.96,54.2,24.1,20.2,51.3,46.9,47.6,102.11,Good Response,96.83,Good Response,127,102,123,5.5,Non-diabetic,5.5,Non-diabetic,5.6,Non-diabetic,51,39,45,50,32,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,60,1,1,4,Partly Active
-21,47,1.61,107,81.2,89.3,41.28,31.33,34.45,52.7,29.7,34.6,54.3,51.5,54.7,114.92,Good Response,32.32,Poor Respnse,137,100,110,6.4,Non-diabetic,5.5,Non-diabetic,5.5,Non-diabetic,46,32,44,45,31,30,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,15,Inactive,15,1,1,1,Partly Active
-236,35,1.5,103,67.9,64.5,45.78,30.18,28.67,44.1,25.3,21.4,58.9,42.6,43.1,94.78,Good Response,114.82,Good Response,93,95,84,4.8,Non-diabetic,4.7,Non-diabetic,4.7,Non-diabetic,46,32,44,45,31,30,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,20,20,Inactive,60,1,1,5,Partly Active
-232,47,1.47,96.9,68.7,77.7,44.84,31.79,35.96,43.2,23.1,30.7,53.7,45.6,47,83.88,Good Response,112.51,Good Response,84,81,107,4.9,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,5.5,49,43,45,48,45,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,20,20,Inactive,60,1,2,5,Partly Active
-224,54,1.57,95.1,68.7,65.7,38.58,27.87,26.65,50.4,28.3,26.8,44.7,40.4,38.9,77.65,Good Response,108.11,Good Response,97,78,77,4.8,Non-diabetic,3.9,Non-diabetic,3.9,Non-diabetic,4.6,49,43,45,54,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,60,1,1,5,Partly Active
-56,37,1.59,108.9,74.3,78.5,43.08,29.39,31.05,52.4,19.4,21.2,56.5,54.9,57.3,83.22,Good Response,52.58,Good Response,106,93,99,5.8,Non-diabetic,5,Non-diabetic,5.2,Non-diabetic,57,47,43,59,43,26,Aerobic,Aerobic & strength,Aerobic,Low,Low,Low,10,10,Inactive,30,3,3,3,Partly Active
-184,39,1.56,109.6,74.6,72.1,45.04,30.65,29.63,60.8,36.2,33,48.8,38.4,39.1,61.3,Good Response,91.04,Good Response,123,73,87,6,Non-diabetic,3.8,Non-diabetic,4.3,Non-diabetic,5.8,47,43,32,48,32,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,15,15,Inactive,45,3,4,4,Partly Active
-32,38,1.7,117,84.2,89.3,40.48,29.13,30.9,60.3,36.7,41.2,56.7,47.5,48.1,81.8,Good Response,40.74,Poor Respnse,79,72,103,3.7,Non-diabetic,3.5,Non-diabetic,5.5,Non-diabetic,65,45,43,58,46,43,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,30,Active,15,2,3,1,Partly Active
-164,46,1.51,99.3,66.8,65.8,43.55,29.3,28.86,49,22.4,19.8,50.3,44.4,46,115.64,Good Response,84.03,Good Response,89,87,115,4.8,Non-diabetic,4.5,Non-diabetic,5.2,Non-diabetic,65,45,43,58,46,43,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-197,51,1.52,109.2,68.9,73.3,47.26,29.82,31.73,64.5,35.7,40.2,44.7,33.2,33.1,114.95,Good Response,95.84,Good Response,91,94,105,5.1,Non-diabetic,5,Non-diabetic,5.3,Non-diabetic,50,44,43,39,23,34,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,45,3,3,4,Partly Active
-191,41,1.57,96.9,69.4,68,39.31,28.16,27.59,43.2,20.3,19,53.7,49.1,49,107.14,Good Response,93.22,Good Response,117,99,100,5.6,Non-diabetic,5,Non-diabetic,5.3,Non-diabetic,38,32,43,43,29,45,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,14,Inactive,45,3,3,4,Partly Active
-198,47,1.67,99.4,75.7,69.3,35.64,27.14,24.85,40.8,19,14.7,58.6,56.7,54.6,82.68,Good Response,96.83,Good Response,111,97,113,5.5,Non-diabetic,4.9,Non-diabetic,5.5,Non-diabetic,37,32,43,39,24,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,60,1,1,4,Partly Active
-201,43,1.56,107.9,73.4,77.1,44.34,30.16,31.68,55.4,24.1,28.2,52.5,49.3,48.9,57.83,Good Response,97.14,Good Response,108,88,129,5.5,Non-diabetic,4.2,Non-diabetic,5.7,Non-diabetic,44,38,40,41,32,48,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,60,1,1,4,Partly Active
-148,57,1.56,104.3,74.1,76,42.86,30.45,31.23,55.3,28.5,31.4,49,45.6,44.6,71.1,Good Response,80.28,Good Response,97,84,112,5.1,Non-diabetic,4,Non-diabetic,5.5,Non-diabetic,56,54,39,64,54,43,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,2,4,Partly Active
-155,42,1.53,107.4,72.9,75.1,45.88,31.14,32.08,54.7,39.1,42.5,52.7,33.8,32.6,81.91,Good Response,80.89,Good Response,110,95,100,5.7,Non-diabetic,4.8,Non-diabetic,5.3,Non-diabetic,44,41,38,43,39,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,3,4,Partly Active
-192,53,1.5,106.4,73,67.4,47.29,32.44,29.96,57.5,29,22.7,48.9,44,44.7,86.76,Good Response,94.1,Good Response,95,75,83,5,Non-diabetic,3.8,Non-diabetic,4.7,Non-diabetic,44,41,38,43,39,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,45,1,2,4,Partly Active
-26,56,1.54,119.5,79.2,91,50.39,33.4,38.37,61.4,36.4,44.3,58.1,42.8,46.7,68.92,Good Response,37.43,Poor Respnse,86,75,104,4.3,Non-diabetic,4,Non-diabetic,5.6,Non-diabetic,38,32,38,42,25,31,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,15,3,3,1,Partly Active
-194,51,1.54,107.9,79.2,82.3,45.5,33.4,34.7,57.6,39.5,41.1,50.3,39.7,41.2,65.14,Good Response,94.77,Good Response,93,84,128,4.9,Non-diabetic,4,Non-diabetic,5.6,Non-diabetic,34,33,36,36,28,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,45,1,1,4,Partly Active
-231,54,1.48,78.7,59.6,63.4,35.93,27.21,28.94,37.9,20.8,25.7,40.8,38.8,37.7,118.33,Good Response,112.43,Good Response,104,96,109,5.5,Non-diabetic,4.8,Non-diabetic,5.4,Non-diabetic,5.6,54,34,43,58,29,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,60,1,2,5,Partly Active
-7,40,1.57,107,78.5,86.4,43.41,31.85,35.05,54.8,31.1,38.8,52.2,47.4,47.6,112.49,Good Response,16.61,Poor Respnse,147,109,115,6.2,Non-diabetic,5.5,Non-diabetic,5.6,Non-diabetic,65,43,33,56,34,28,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,15,1,1,1,Partly Active
-180,31,1.52,103.6,68.2,72.8,44.84,29.52,31.51,54.9,32.5,36.7,48.7,35.7,36.1,92.28,Good Response,88.69,Good Response,135,93,129,6,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,5.6,35,33,32,39,41,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,1,1,4,Partly Active
-211,42,1.5,89.2,63.2,69.3,39.64,28.09,30.8,39.3,19.1,25.1,49.9,44.1,44.2,127.12,Good Response,103.41,Good Response,87,91,105,4.8,Non-diabetic,5,Non-diabetic,5.5,Non-diabetic,65,32,33,56,20,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,20,Inactive,60,1,1,4,Partly Active
-4,48,1.48,116.3,86.1,92.3,53.1,39.31,42.14,67,39.7,44.1,49.3,46.4,48.2,22.4,Poor Respnse,7.25,Poor Respnse,96,78,109,4.7,Non-diabetic,4.3,Non-diabetic,5.5,Non-diabetic,65,32,33,56,20,25,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,10,30,Active,15,4,5,1,Partly Active
-244,59,1.53,90,65.2,62.1,38.45,27.85,26.53,41.6,16.5,15.4,48.4,48.7,46.7,97.05,Good Response,125.18,Good Response,113,88,84,5,Non-diabetic,3.9,Non-diabetic,4.4,Non-diabetic,65,32,33,56,20,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,60,2,3,5,Partly Active
-19,58,1.62,107.5,79,87.3,40.96,30.1,33.26,58,40.8,44.5,49.5,38.2,42.8,70.52,Good Response,31.28,Poor Respnse,103,85,124,6.1,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,35,32,33,28,32,34,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,15,1,1,1,Partly Active
-108,36,1.6,107.4,75.2,79.4,41.95,29.38,31.02,55.3,25,28.4,52.1,50.2,51,56.66,Good Response,70.7,Good Response,79,68,93,4.1,Non-diabetic,3.8,Non-diabetic,4.9,Non-diabetic,35,32,33,28,32,34,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-30,43,1.69,121.6,84.2,90.2,42.58,29.48,31.58,60.3,32.9,41,61.3,51.3,49.2,104.25,Good Response,38.86,Poor Respnse,89,76,136,5,Non-diabetic,3.8,Non-diabetic,5.8,Non-diabetic,37,18,33,43,19,25,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,15,2,3,1,Partly Active
-162,45,1.6,93.1,75,79.9,36.37,29.3,31.21,48.2,32.6,38.1,44.9,42.4,41.8,78.3,Good Response,83.44,Good Response,150,103,128,6.4,Non-diabetic,5.5,Non-diabetic,5.5,Non-diabetic,37,18,33,43,19,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,2,4,Partly Active
-219,49,1.54,95.1,69,73.8,40.1,29.09,31.12,51,32.1,36.8,44.1,36.9,37,87.28,Good Response,105.81,Good Response,254,161,146,9.7,Diabetic,6.1,Non-diabetic,5.8,Non-diabetic,47,43,32,48,32,36,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,60,2,1,5,Partly Active
-101,41,1.63,105.7,74.3,82.5,39.78,27.96,31.05,56.3,26.8,30.6,49.4,47.5,51.9,77.22,Good Response,69.38,Good Response,95,93,136,5.1,Non-diabetic,5,Non-diabetic,5.8,Non-diabetic,47,43,32,48,32,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-12,56,1.63,113.3,88,94.5,42.64,33.12,35.57,49.3,32.3,40.6,64,55.7,53.9,55.81,Good Response,25.69,Poor Respnse,89,90,123,5.5,Non-diabetic,4.3,Non-diabetic,5.5,Non-diabetic,47,43,32,48,32,28,Aerobic,Aerobic,Aerobic,Low,Low,Low,30,30,Active,15,3,3,1,Partly Active
-116,53,1.6,100.8,75.7,73.2,39.38,29.57,28.59,48.4,28.9,27.4,52.4,46.8,45.8,80.33,Good Response,72.37,Good Response,135,93,100,6.1,Non-diabetic,5.1,Non-diabetic,5.3,Non-diabetic,43,33,32,48,43,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,2,2,4,Partly Active
-67,56,1.6,102.4,75.1,78.2,40,29.34,30.55,51.3,31.2,34.2,51.1,43.9,44,90.27,Good Response,57.09,Good Response,107,91,88,6.1,Non-diabetic,4.6,Non-diabetic,4.6,Non-diabetic,43,33,32,48,43,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,2,3,Partly Active
-97,51,1.49,97.4,66.9,73.8,43.87,30.13,33.24,52.1,27.6,33.5,45.3,39.3,40.3,100.69,Good Response,68.69,Good Response,107,97,123,6,Non-diabetic,5.1,Non-diabetic,5.6,Non-diabetic,35,33,32,39,41,21,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,1,2,4,Partly Active
-134,58,1.64,103.1,76.5,82.3,38.33,28.44,30.6,56.9,39.5,40.3,46.2,37,42,95.75,Good Response,77.01,Good Response,95,78,102,5.2,Non-diabetic,4.4,Non-diabetic,5.5,Non-diabetic,31,30,32,32,26,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,1,1,4,Partly Active
-150,51,1.52,95,66.3,70.1,41.12,28.7,30.34,48.7,22.3,26.9,46.3,44,43.2,93.87,Good Response,80.39,Good Response,78,70,100,3.7,Non-diabetic,3.7,Non-diabetic,5.3,Non-diabetic,31,30,32,32,26,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,1,1,4,Partly Active
-33,41,1.6,109.8,84.1,90,42.89,32.85,35.16,57.5,36.9,42.5,52.3,47.2,47.5,56.69,Good Response,41.23,Poor Respnse,113,94,108,5.4,Non-diabetic,5,Non-diabetic,5.5,Non-diabetic,43,28,32,45,32,44,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,30,20,Inactive,15,3,5,1,Partly Active
-109,59,1.51,106.2,73.1,74.8,46.58,32.06,32.81,55.4,35.4,39.8,50.8,37.7,35,105.72,Good Response,71,Good Response,96,86,142,4.7,Non-diabetic,4.7,Non-diabetic,5.7,Non-diabetic,28,18,32,32,17,27,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,15,15,Inactive,30,1,2,4,Partly Active
-20,52,1.62,115.7,86.4,98.7,44.09,32.92,37.61,59.1,37.6,40.1,56.6,48.8,58.6,39.13,Poor Respnse,31.86,Poor Respnse,92,74,109,5,Non-diabetic,3.8,Non-diabetic,5.4,Non-diabetic,28,18,32,32,17,27,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,15,3,3,1,Partly Active
-170,47,1.61,107.7,73.6,79.9,41.55,28.39,30.82,53.9,26,28.1,53.8,47.6,51.8,75.08,Good Response,86.32,Good Response,87,90,97,5.2,Non-diabetic,4.2,Non-diabetic,4.7,Non-diabetic,28,18,32,32,17,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,2,4,Partly Active
-34,53,1.59,108.8,80.4,77.2,43.04,31.8,30.54,57.7,35.3,31.2,51.1,45.1,46,96.29,Good Response,41.4,Poor Respnse,99,82,104,5.2,Non-diabetic,4.5,Non-diabetic,5.6,Non-diabetic,39,40,31,41,28,33,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,30,2,2,2,Partly Active
-173,58,1.61,101,69,69.2,38.96,26.62,26.7,51.5,25.3,25.8,49.5,43.7,43.4,92.32,Good Response,86.79,Good Response,97,85,92,5.1,Non-diabetic,4.1,Non-diabetic,4.7,Non-diabetic,39,32,30,42,39,40,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,30,2,1,4,Partly Active
-90,39,1.48,107.7,76,84.1,49.17,34.7,38.39,51.5,25.5,29.1,56.2,50.5,55,63.16,Good Response,66.38,Good Response,94,91,109,5,Non-diabetic,4.6,Non-diabetic,5.3,Non-diabetic,31,24,30,21,19,21,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,2,2,4,Partly Active
-77,40,1.47,107.2,82.9,80.2,49.61,38.36,37.11,54.2,37.1,36,53,45.8,44.2,45.48,Poor Respnse,61.73,Good Response,119,103,105,6.4,Non-diabetic,5.4,Non-diabetic,5.4,Non-diabetic,31,29,29,25,25,24,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,2,4,Partly Active
-204,59,1.53,107.6,68.5,64.3,45.97,29.26,27.47,55.9,26.8,23.4,51.7,41.7,40.9,98.88,Good Response,98.03,Good Response,93,75,90,4.8,Non-diabetic,3.6,Non-diabetic,4.9,Non-diabetic,43,21,29,41,19,16,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,60,1,1,4,Partly Active
-215,38,1.57,100.7,70.4,70.5,40.85,28.56,28.6,50.5,27.8,28.1,50.2,42.6,42.4,84.45,Good Response,104.61,Good Response,119,85,81,5.5,Non-diabetic,4.3,Non-diabetic,4.7,Non-diabetic,95,42,28,87,45,44,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,60,1,1,4,Partly Active
-139,37,1.6,95.3,69.7,68.3,37.23,27.23,26.68,45.5,24.6,23.5,49.8,45.1,44.8,100.07,Good Response,78.42,Good Response,96,97,96,5.3,Non-diabetic,4.8,Non-diabetic,5.4,Non-diabetic,48,32,28,49,24,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-17,40,1.63,122.9,78.5,85.4,46.26,29.55,32.14,55.2,16.7,24.1,67.7,61.8,61.3,87.92,Good Response,29.8,Poor Respnse,101,96,105,5.9,Non-diabetic,4.8,Non-diabetic,5.5,Non-diabetic,25,27,28,26,32,18,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,10,30,Active,15,3,3,1,Partly Active
-103,52,1.62,98.8,75.3,79.1,37.65,28.69,30.14,45.7,19.3,22.5,53.1,56,56.6,112.45,Good Response,69.46,Good Response,101,97,118,5.7,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,34,26,28,38,22,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-14,54,1.6,113,75.8,84.3,44.14,29.61,32.93,55.2,24.6,29.4,57.8,51.2,54.9,83.31,Good Response,26.93,Poor Respnse,86,75,124,5.1,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,34,26,28,38,22,25,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,15,4,5,1,Partly Active
-98,53,1.48,101.8,68.1,74.3,46.48,31.09,33.92,55.7,26.8,31.8,46.1,41.3,42.5,96.4,Good Response,68.74,Good Response,128,101,129,6.1,Non-diabetic,5.4,Non-diabetic,5.6,Non-diabetic,27,25,28,26,29,24,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,3,3,4,Partly Active
-206,37,1.57,109.4,87.7,88.1,44.38,35.58,35.74,56.9,33.1,34.2,52.5,54.6,53.9,39.97,Poor Respnse,99.11,Good Response,113,91,94,5.5,Non-diabetic,5,Non-diabetic,5.1,Non-diabetic,29,21,28,27,19,20,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,15,Inactive,60,4,5,4,Partly Active
-213,48,1.5,90.1,65.4,70.3,40.04,29.07,31.24,43,20.1,27.1,47.1,45.3,43.2,98.74,Good Response,104.28,Good Response,257,167,151,8.7,Diabetic,6.2,Non-diabetic,6,Non-diabetic,33,32,27,31,21,35,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,60,2,3,4,Partly Active
-246,69,1.51,101.6,66.8,66,44.56,29.3,28.95,53.4,23.8,25.5,48.2,43,40.5,92.09,Good Response,133.7,Good Response,98,87,88,4.2,Non-diabetic,4.9,Non-diabetic,4.6,Non-diabetic,33,32,27,31,21,18,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,60,1,1,5,Partly Active
-9,63,1.64,114.7,83.8,90.5,42.65,31.16,33.65,55.5,33,29.4,59.2,50.8,61.1,83.64,Good Response,24.02,Poor Respnse,163,105,125,6.8,Diabetic,5.4,Non-diabetic,5.7,Non-diabetic,37,25,27,40,27,26,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,15,4,5,1,Partly Active
-216,62,1.55,95,74.2,78.9,39.54,30.88,32.84,47.8,35.9,40,47.2,38.3,38.9,84.78,Good Response,104.76,Good Response,116,103,129,5.5,Non-diabetic,5,Non-diabetic,5.7,Non-diabetic,37,25,27,40,27,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,60,1,2,4,Partly Active
-144,44,1.43,103,70.5,76.3,50.37,34.48,37.31,53.3,25.8,28.6,49.7,44.7,47.7,86.19,Good Response,79.49,Good Response,87,82,113,5.2,Non-diabetic,3.7,Non-diabetic,5.3,Non-diabetic,16,20,27,18,15,24,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,2,2,4,Partly Active
-1,35,1.59,119,89,99.9,47.07,35.2,39.52,63.6,46.6,55.2,55.4,42.4,44.7,87.08,Good Response,19.96,Poor Respnse,117,75,134,5.7,Non-diabetic,4.1,Non-diabetic,5.9,Non-diabetic,56,28,26,58,43,15,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,15,4,2,1,Partly Active
-221,53,1.5,93.1,63.8,68.4,41.38,28.36,30.4,47.8,23.6,29.6,45.3,40.2,38.8,114.2,Good Response,107.48,Good Response,138,117,129,6.1,Non-diabetic,5.5,Non-diabetic,5.7,Non-diabetic,5,29,25,25,18,22,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,60,1,2,5,Partly Active
-202,47,1.53,100.4,67,64.9,42.89,28.62,27.72,49.5,23.1,20.9,50.9,43.9,44,109.66,Good Response,97.6,Good Response,98,93,119,4.9,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,34,28,25,36,27,21,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,60,1,1,4,Partly Active
-43,46,1.56,103.5,74.5,75.3,42.53,30.61,30.94,50.6,25.1,27.1,52.9,49.4,48.2,82.01,Good Response,48.3,Poor Respnse,103,90,95,6,Non-diabetic,5,Non-diabetic,5,Non-diabetic,34,28,25,36,27,21,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-84,39,1.53,93.9,63.4,72.8,40.11,27.08,31.1,40.5,17,23.5,53.4,46.4,49.3,91.04,Good Response,63.54,Good Response,79,76,100,3.8,Non-diabetic,4.2,Non-diabetic,5,Non-diabetic,29,25,25,18,22,22,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-23,45,1.59,122.4,90.8,100.5,48.42,35.92,39.75,64.9,39.8,48.5,57.5,51,52,52.11,Good Response,36.6,Poor Respnse,90,93,108,5.5,Non-diabetic,4.7,Non-diabetic,5.3,Non-diabetic,38,21,25,38,18,24,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,30,30,Active,15,4,4,1,Partly Active
-238,46,1.57,102.3,73.7,70.2,41.5,29.9,28.48,55.5,33.5,28.9,46.8,40.2,41.3,85.9,Good Response,115.91,Good Response,86,81,90,4.7,Non-diabetic,4,Non-diabetic,4.1,Non-diabetic,38,21,25,38,18,24,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,60,2,2,5,Partly Active
-120,43,1.53,97,72.5,79.3,41.44,30.97,33.88,50.7,33.1,40.6,46.3,39.4,38.7,80.09,Good Response,73.61,Good Response,90,85,132,5.1,Non-diabetic,4.3,Non-diabetic,5.6,Non-diabetic,21,17,25,25,20,32,Aerobic,Aerobic & strength,Aerobic,Low,Low,Moderate,15,10,Inactive,30,1,1,4,Partly Active
-188,39,1.5,81.7,64.7,68.5,36.31,28.76,30.44,32.8,18.1,23.6,48.9,46.6,44.9,108.73,Good Response,92.2,Good Response,97,89,111,5.2,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,21,17,25,25,20,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,45,1,1,4,Partly Active
-54,36,1.51,108.3,77.5,85.3,47.5,33.99,37.41,58.2,34.5,41.7,50.1,43,43.6,83.15,Good Response,52.22,Good Response,91,99,103,4.9,Non-diabetic,5.1,Non-diabetic,5.3,Non-diabetic,21,17,25,25,20,32,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,20,Inactive,30,1,1,3,Partly Active
-24,44,1.69,105.4,82.8,90.1,36.9,28.99,31.55,58.1,36.3,38.1,47.3,46.5,52,73.69,Good Response,36.62,Poor Respnse,80,76,99,5.2,Non-diabetic,3.7,Non-diabetic,5,Non-diabetic,46,32,24,47,18,31,Aerobic & strength,Aerobic,Aerobic,Moderate,Moderate,Low,45,60,Active,15,4,4,1,Partly Active
-227,56,1.55,106.5,65.9,72.1,44.33,27.43,30.01,55.4,22,26,51.1,43.9,46.1,73.81,Good Response,109.39,Good Response,90,91,118,4.7,Non-diabetic,4.6,Non-diabetic,5.6,Non-diabetic,5.3,31,24,30,21,19,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,60,1,1,5,Partly Active
-31,42,1.68,111.2,84.5,85.4,39.4,29.94,30.26,52.6,31.2,30.5,58.6,53.3,54.9,94.15,Good Response,40.37,Poor Respnse,98,96,145,5.1,Non-diabetic,4.2,Non-diabetic,5.8,Non-diabetic,25,23,23,28,20,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,30,30,Active,15,5,5,1,Partly Active
-128,47,1.57,103.1,70.3,78.6,41.83,28.52,31.89,52.9,28.1,32.1,50.2,42.2,46.5,85.25,Good Response,76.22,Good Response,84,79,100,4.5,Non-diabetic,4,Non-diabetic,5.4,Non-diabetic,27,21,23,32,25,24,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,1,1,4,Partly Active
-176,55,1.48,94,67.7,63.2,42.91,30.91,28.85,52.2,30.7,28.7,41.8,37,34.5,131.02,Good Response,87.27,Good Response,100,96,91,4.9,Non-diabetic,4.8,Non-diabetic,4.9,Non-diabetic,27,21,23,32,25,24,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-91,39,1.56,96,72.3,75.3,39.45,29.71,30.94,40.5,22.9,24.8,55.5,49.4,50.5,65.98,Good Response,66.73,Good Response,86,77,83,4.7,Non-diabetic,3.9,Non-diabetic,4.3,Non-diabetic,20,19,23,25,21,21,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,20,20,Inactive,30,1,2,4,Partly Active
-66,53,1.66,108.2,82.9,85.6,39.27,30.08,31.06,58.2,44.7,48.3,50,38.2,37.3,68.66,Good Response,56.55,Good Response,78,84,96,5.3,Non-diabetic,4.2,Non-diabetic,4.9,Non-diabetic,21,30,22,32,19,23,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,1,1,3,Partly Active
-11,52,1.75,113.8,89.6,98.3,37.16,29.26,32.1,49.9,29.6,32.8,63.9,60,65.5,72.77,Good Response,25,Poor Respnse,169,94,116,7.1,Diabetic,4.2,Non-diabetic,5.5,Non-diabetic,56,19,21,49,30,27,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,45,Active,15,4,5,1,Partly Active
-100,34,1.57,103,79.8,82.8,41.79,32.37,33.59,52.7,40.7,40.2,50.3,39.1,42.6,58.01,Good Response,69.38,Good Response,97,70,92,4.9,Non-diabetic,3.8,Non-diabetic,4.7,Non-diabetic,56,19,21,49,30,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-25,61,1.72,109.3,81.7,80.5,36.95,27.62,27.21,56.7,33.6,34.8,52.6,48.1,45.7,69.71,Good Response,37.34,Poor Respnse,94,87,107,4.8,Non-diabetic,4.5,Non-diabetic,5.5,Non-diabetic,28,19,21,32,16,20,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,30,3,3,1,Partly Active
-157,48,1.51,94,67.1,69.3,41.23,29.43,30.39,45.1,17.3,19.6,48.9,49.8,49.7,77.36,Good Response,81.45,Good Response,94,78,115,5,Non-diabetic,4,Non-diabetic,5.5,Non-diabetic,28,19,21,32,16,20,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,15,Inactive,30,1,1,4,Partly Active
-240,56,1.47,95.3,63.4,69.8,44.1,29.34,32.3,50.8,24.6,32.6,44.5,38.8,37.2,121.32,Good Response,118.4,Good Response,103,91,86,5.4,Non-diabetic,4.8,Non-diabetic,4.9,Non-diabetic,28,19,21,32,16,20,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,60,1,1,5,Partly Active
-200,41,1.57,102.8,72.7,75.6,41.71,29.49,30.67,52.4,29.7,34.7,50.4,43,40.9,100.76,Good Response,96.87,Good Response,83,74,124,4.9,Non-diabetic,3.7,Non-diabetic,5.5,Non-diabetic,28,17,21,32,15,31,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,60,1,1,4,Partly Active
-27,41,1.57,112,83.2,89,45.44,33.75,36.11,50.7,34.9,40.7,61.3,48.3,48.3,41.07,Poor Respnse,37.65,Poor Respnse,91,81,103,4.5,Non-diabetic,4.1,Non-diabetic,5.5,Non-diabetic,25,17,21,29,15,31,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,15,4,5,2,Partly Active
-179,52,1.67,105.8,83.9,79.6,37.94,30.08,28.54,70.6,48.9,43.5,35.2,35,36.1,103.06,Good Response,88.4,Good Response,180,104,132,6.3,Non-diabetic,5,Non-diabetic,5.8,Non-diabetic,4.9,23,20,23,32,18,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-233,38,1.6,107.1,74.9,78.2,41.84,29.26,30.55,54.8,30.7,34.2,52.3,44.2,44,87.97,Good Response,113.1,Good Response,131,94,107,5.7,Non-diabetic,4.6,Non-diabetic,5.3,Non-diabetic,4.9,23,20,23,32,18,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,15,15,Inactive,60,3,3,5,Partly Active
-136,48,1.65,107.1,75.9,78.5,39.34,27.88,28.83,55.4,23.6,26.2,51.7,52.3,52.3,73.13,Good Response,77.37,Good Response,144,97,126,6.4,Non-diabetic,5,Non-diabetic,5.6,Non-diabetic,19,21,20,23,18,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,2,4,Partly Active
-189,57,1.51,97,69,67.6,42.54,30.26,29.65,46.8,26.3,25.1,50.2,42.7,42.5,81.05,Good Response,92.71,Good Response,86,86,109,5.1,Non-diabetic,4.3,Non-diabetic,5.4,Non-diabetic,19,21,20,23,18,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,45,1,1,4,Partly Active
-121,39,1.52,100.5,66.7,68.5,43.5,28.87,29.65,50.3,14.5,16.3,50.2,52.2,52.2,94.2,Good Response,74.22,Good Response,87,82,93,5,Non-diabetic,4.6,Non-diabetic,4.9,Non-diabetic,19,21,20,23,18,25,Aerobic,Aerobic & strength,Aerobic,Low,Low,Moderate,10,15,Inactive,30,1,1,4,Partly Active
-5,44,1.62,122.4,81.7,88.6,46.64,31.13,33.76,63.7,27,33.8,58.7,54.7,54.8,49.65,Poor Respnse,13.62,Poor Respnse,84,75,117,5.1,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,28,16,20,27,18,15,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,15,5,3,1,Partly Active
-245,54,1.5,99,66.9,60.3,44,29.73,26.8,38.7,17.3,14.8,60.3,49.6,45.5,95.31,Good Response,125.23,Good Response,118,95,91,5.1,Non-diabetic,4.2,Non-diabetic,4.9,Non-diabetic,28,16,20,27,18,15,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,15,15,Inactive,60,1,1,5,Partly Active
-183,54,1.54,98,72.4,70.3,41.32,30.53,29.64,47.4,20.3,18,50.6,52.1,52.3,120.34,Good Response,90.73,Good Response,275,104,91,9.1,Diabetic,5.5,Non-diabetic,4.7,Non-diabetic,4.7,56,19,21,49,30,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,20,Inactive,45,1,2,4,Partly Active
-72,40,1.67,97.4,78.6,82.5,34.92,28.18,29.58,47,26.8,30.5,50.4,51.8,52,57.9,Good Response,59.05,Good Response,87,80,96,4.2,Non-diabetic,4.7,Non-diabetic,4,Non-diabetic,25,22,19,19,21,22,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,2,2,3,Partly Active
-228,55,1.56,104.3,74.1,78.5,42.86,30.45,32.26,55.3,28.5,30.8,49,45.6,47.7,100.91,Good Response,109.43,Good Response,101,82,120,5.5,Non-diabetic,4,Non-diabetic,5.7,Non-diabetic,4.3,20,19,23,25,21,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,15,15,Inactive,60,1,1,5,Partly Active
-130,49,1.54,100.4,67,69.1,42.33,28.25,29.14,49.5,25.8,28.8,50.9,41.2,40.3,120.12,Good Response,76.51,Good Response,117,109,100,5.8,Non-diabetic,5.5,Non-diabetic,5.5,Non-diabetic,34,29,18,41,25,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,1,1,4,Partly Active
-168,56,1.57,95.2,69.1,74.2,38.62,28.03,30.1,45.1,20.1,25.5,50.1,49,48.7,96.76,Good Response,85.43,Good Response,118,90,118,5.5,Non-diabetic,5,Non-diabetic,5.5,Non-diabetic,34,29,18,41,25,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-107,48,1.59,102.5,75.6,79,40.54,29.9,31.25,52.8,31.2,33.1,49.7,44.4,45.9,70.4,Good Response,70.52,Good Response,84,90,119,5.3,Non-diabetic,4.9,Non-diabetic,5.5,Non-diabetic,34,29,18,41,25,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,10,Inactive,30,1,1,4,Partly Active
-18,46,1.65,104.3,79.7,82.9,38.31,29.27,30.45,47.7,31.6,33.1,56.6,48.1,49.8,86.57,Good Response,31.2,Poor Respnse,105,90,86,6.3,Non-diabetic,5,Non-diabetic,4.9,Non-diabetic,34,29,18,41,25,27,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,10,Inactive,15,1,1,3,Partly Active
-165,52,1.51,94.5,65.1,74.1,41.45,28.55,32.5,45.3,22.5,25.7,49.2,42.6,48.4,114.32,Good Response,84.39,Good Response,97,90,100,4.7,Non-diabetic,4.8,Non-diabetic,5.4,Non-diabetic,43,27,18,47,21,18,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,15,Inactive,30,1,2,4,Partly Active
-2,53,1.6,109.8,85.2,93.2,42.89,33.28,36.41,49.7,34.5,39.1,60.1,50.7,54.1,74.15,Good Response,5.09,Poor Respnse,109,82,127,5.9,Non-diabetic,4.7,Non-diabetic,5.6,Non-diabetic,54,26,18,63,33,21,Aerobic,Aerobic,Aerobic,Low,Low,Low,30,30,Active,15,2,2,1,Partly Active
-110,49,1.62,93.8,73.2,77.6,35.74,27.89,29.57,48.2,31.4,36.2,45.6,41.8,41.4,107.2,Good Response,71.2,Good Response,115,85,125,5.7,Non-diabetic,4.4,Non-diabetic,5.6,Non-diabetic,27,26,18,18,19,21,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,10,10,Inactive,30,2,4,4,Partly Active
-59,43,1.54,106.9,76.1,80.5,45.08,32.09,33.94,45.4,21.5,25.8,61.5,54.6,54.7,102.27,Good Response,55.04,Good Response,76,72,102,3.8,Non-diabetic,3.7,Non-diabetic,4.7,Non-diabetic,21,23,18,32,24,28,Aerobic,Aerobic,Aerobic,Low,Low,Low,20,20,Inactive,30,1,2,3,Partly Active
-13,39,1.61,104,81.8,87.6,40.12,31.56,33.79,58.7,41.7,46.9,45.3,40.1,40.7,54.42,Good Response,26.67,Poor Respnse,91,86,156,4.9,Non-diabetic,4.6,Non-diabetic,5.7,Non-diabetic,27,17,18,28,17,17,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,10,Inactive,15,1,1,1,Partly Active
-16,35,1.67,101.7,81.5,88.5,36.47,29.22,31.73,33.8,18.3,24.9,67.9,63.2,63.6,98.58,Good Response,29.41,Poor Respnse,96,90,114,4.8,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,32,16,18,27,25,19,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,45,Active,15,1,1,2,Partly Active
-185,39,1.53,105,68.3,76.3,44.85,29.18,32.59,50,20.9,24.6,55,47.4,51.7,91.08,Good Response,91.52,Good Response,267,123,153,8.9,Diabetic,5.7,Non-diabetic,5.7,Non-diabetic,5.5,27,17,18,28,17,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,15,20,Inactive,45,2,2,4,Partly Active
-3,54,1.74,111.3,87,91.6,36.76,28.74,30.25,56.7,39.6,45.8,54.6,47.4,45.8,71.98,Good Response,6.12,Poor Respnse,316,121,113,8.5,Diabetic,5.5,Non-diabetic,5,Non-diabetic,43,18,17,42,21,18,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,15,3,3,1,Partly Active
-243,61,1.57,102.8,68.5,67,41.71,27.79,27.18,52.4,27.9,26.1,50.4,40.6,40.9,82.37,Good Response,124.71,Good Response,83,77,90,4.2,Non-diabetic,3.8,Non-diabetic,4.7,Non-diabetic,43,18,17,42,21,18,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,10,10,Inactive,60,1,1,5,Partly Active
-141,29,1.61,122.6,84.9,88.1,47.3,32.75,33.99,66.3,38.6,42.2,56.3,46.3,45.9,68.46,Good Response,78.86,Good Response,153,105,135,5.9,Non-diabetic,5.1,Non-diabetic,5.7,Non-diabetic,26,18,63,33,21,30,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,30,Active,30,4,5,4,Active
-223,36,1.58,90.4,68.7,71.5,36.21,27.52,28.64,50.8,27.4,31.6,39.6,41.3,39.9,92.6,Good Response,108.11,Good Response,87,76,83,4.9,Non-diabetic,3.8,Non-diabetic,3.9,Non-diabetic,5.7,67,56,54,72,45,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,60,60,Active,60,3,4,5,Active
-149,34,1.52,114.3,72.7,74.5,49.47,31.47,32.25,60.1,30.2,36.9,54.2,42.5,37.6,90.72,Good Response,80.39,Good Response,129,88,109,6.4,Non-diabetic,4.2,Non-diabetic,5.5,Non-diabetic,85,65,56,73,62,60,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,2,5,4,Active
-133,54,1.51,118.2,80.9,88.2,51.84,35.48,38.68,64.6,31.4,37.8,53.6,49.5,50.4,63.51,Good Response,76.91,Good Response,99,78,105,5.1,Non-diabetic,4.3,Non-diabetic,5.3,Non-diabetic,85,65,56,73,62,60,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,30,Active,30,5,5,4,Active
-52,39,1.58,114.6,78,79.2,45.91,31.24,31.73,55.8,27,28.7,58.8,51,50.5,81.41,Good Response,51.57,Good Response,101,85,98,6,Non-diabetic,3.8,Non-diabetic,4.8,Non-diabetic,85,65,56,73,62,60,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,3,5,3,Active
-146,50,1.48,108.8,78,82.3,49.67,35.61,37.57,59.1,39.2,41.2,49.7,38.8,41.1,67.89,Good Response,79.71,Good Response,190,111,129,7.9,Diabetic,5.6,Non-diabetic,5.6,Non-diabetic,43,33,56,34,28,39,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,2,3,4,Active
-143,55,1.65,103.9,76.8,84.5,38.16,28.21,31.04,53.2,38,39.1,50.7,38.8,45.4,75.63,Good Response,79.21,Good Response,82,89,107,4.7,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,32,33,56,20,25,34,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,30,60,Active,30,3,3,4,Active
-114,45,1.57,112.6,80.8,85.1,45.68,32.78,34.52,57.1,37.2,43.6,55.5,43.6,41.5,72.81,Good Response,71.98,Good Response,70,78,99,3.8,Non-diabetic,4.9,Non-diabetic,4.9,Non-diabetic,78,65,54,46,39,38,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,15,30,Active,30,6,6,4,Active
-86,38,1.59,89.9,68.2,75.3,35.56,26.98,29.79,37.8,23,28.3,52.1,45.2,47,74.61,Good Response,64.33,Good Response,95,81,126,5.3,Non-diabetic,4.9,Non-diabetic,5.7,Non-diabetic,67,56,54,72,45,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,30,1,2,4,Active
-138,57,1.63,121.6,81,83.9,45.77,30.49,31.58,62.4,28.2,30.5,59.2,52.8,53.4,43.92,Poor Respnse,78.29,Good Response,137,94,120,6.5,Diabetic,4.1,Non-diabetic,5.6,Non-diabetic,47,43,47,53,32,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,1,3,4,Active
-127,46,1.64,117,82.5,89.8,43.5,30.67,33.39,62.1,32.9,37.5,54.9,49.6,52.3,64.35,Good Response,75.62,Good Response,220,111,156,8.5,Diabetic,5.5,Non-diabetic,6.1,Non-diabetic,49,43,45,54,45,45,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,3,3,4,Active
-95,53,1.7,117.2,82.1,94.5,40.55,28.41,32.7,58.9,30.5,41.3,58.3,51.6,53.2,74.78,Good Response,68.05,Good Response,102,84,104,5.8,Non-diabetic,4.9,Non-diabetic,5.5,Non-diabetic,49,43,45,48,45,39,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,30,Active,30,3,3,4,Active
-87,51,1.6,115.9,78,80.1,45.27,30.47,31.29,58.2,32.5,35.6,57.7,45.5,44.5,56.99,Good Response,65.3,Good Response,93,69,91,5,Non-diabetic,3.8,Non-diabetic,4.6,Non-diabetic,49,43,45,54,45,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,30,4,4,4,Active
-40,44,1.61,109,81.8,84.9,42.05,31.56,32.75,58.8,38.7,44.2,50.2,43.1,40.7,94.82,Good Response,44.71,Poor Respnse,110,81,94,5.5,Non-diabetic,4.9,Non-diabetic,5,Non-diabetic,51,39,45,50,32,40,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,45,Active,30,3,4,4,Active
-171,59,1.51,111.4,68.1,69.3,48.86,29.87,30.39,56.6,20.4,20,54.8,47.7,49.3,64.84,Good Response,86.41,Good Response,102,96,112,5,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,46,32,44,45,31,30,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,6,6,4,Active
-153,39,1.64,121.5,78.3,82.4,45.17,29.11,30.64,61.8,31.1,35.9,59.7,47.2,46.5,78.92,Good Response,80.72,Good Response,148,142,168,5.9,Non-diabetic,5.7,Non-diabetic,5.7,Non-diabetic,57,47,43,59,43,26,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,30,3,3,4,Active
-190,39,1.65,112.7,79.5,86.6,41.4,29.2,31.81,56.2,30.5,36.8,56.5,49,49.8,64.67,Good Response,92.97,Good Response,138,92,117,6.2,Non-diabetic,4.9,Non-diabetic,5.7,Non-diabetic,57,47,43,59,43,26,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,45,3,3,4,Active
-38,42,1.55,114.7,84.5,95.8,47.74,35.17,39.88,62.1,38.7,43.1,52.6,45.8,52.7,50.66,Good Response,43.53,Poor Respnse,85,75,104,5,Non-diabetic,4.1,Non-diabetic,5.4,Non-diabetic,50,44,43,39,23,34,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,30,3,3,2,Active
-111,38,1.71,119.9,84.6,92.6,41,28.93,31.67,47.9,25.1,32.9,72,59.5,59.7,42.78,Poor Respnse,71.26,Good Response,104,79,113,5.8,Non-diabetic,3.8,Non-diabetic,5.5,Non-diabetic,43,43,43,49,47,50,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,20,30,Active,30,3,5,4,Active
-196,52,1.6,102.3,73.2,65.7,39.96,28.59,25.66,44.5,18.6,13.2,57.8,54.6,52.5,64.28,Good Response,95.52,Good Response,114,87,94,5.5,Non-diabetic,4.6,Non-diabetic,4.9,Non-diabetic,43,43,43,49,47,50,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,45,45,Active,45,3,3,4,Active
-62,40,1.56,102.2,74.6,88.9,42,30.65,36.53,53.6,36.2,46.9,48.6,38.4,42,98.34,Good Response,55.85,Good Response,105,91,98,5.9,Non-diabetic,4.1,Non-diabetic,4.8,Non-diabetic,43,43,43,49,47,50,Aerobic,Aerobic & strength,Aerobic,Low,Low,Low,30,30,Active,30,2,2,3,Active
-94,39,1.6,101.5,80.1,89.5,39.65,31.29,34.96,39.2,15.8,24.7,62.3,64.3,64.8,73.78,Good Response,67.63,Good Response,87,91,136,4.1,Non-diabetic,4.7,Non-diabetic,5.6,Non-diabetic,54,34,43,58,29,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,45,Active,30,1,3,4,Active
-57,46,1.52,120.8,77.4,85.4,52.29,33.5,36.96,65.1,31.7,40.6,55.7,45.7,44.8,82.95,Good Response,53.64,Good Response,98,73,109,5,Non-diabetic,4,Non-diabetic,5.5,Non-diabetic,38,32,43,43,29,45,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,20,30,Active,30,2,3,3,Active
-154,43,1.52,120.7,77.9,81.8,52.24,33.72,35.41,67.3,43.2,46.6,53.4,34.7,35.2,71.49,Good Response,80.82,Good Response,140,87,100,6.1,Non-diabetic,4,Non-diabetic,5.3,Non-diabetic,38,32,43,43,29,45,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,3,5,4,Active
-39,35,1.55,118,79.1,84.7,49.12,32.92,35.25,50.2,12.4,19.3,67.8,66.7,65.4,47.95,Poor Respnse,43.96,Poor Respnse,96,95,118,5.2,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,37,32,43,39,24,32,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,30,3,5,2,Active
-142,68,1.56,103.9,73.9,79.2,42.69,30.37,32.54,53.2,31,37.6,50.7,42.9,41.6,77.87,Good Response,78.95,Good Response,91,77,102,5.1,Non-diabetic,3.6,Non-diabetic,5.5,Non-diabetic,18,17,42,21,18,33,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,45,Active,30,2,3,4,Active
-93,60,1.61,119.4,79.4,76.3,46.06,30.63,29.44,61.4,29.6,26.1,58,49.8,50.2,92.38,Good Response,67.18,Good Response,134,79,104,6.2,Non-diabetic,4,Non-diabetic,5.4,Non-diabetic,63,39,41,46,38,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,5,4,Active
-64,44,1.63,119,82.8,76.3,44.79,31.16,28.72,64.1,28.6,24.5,54.9,54.2,51.8,40.39,Poor Respnse,56.29,Good Response,91,81,98,5.4,Non-diabetic,4.9,Non-diabetic,4.9,Non-diabetic,36,37,41,38,29,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,30,5,5,3,Active
-113,38,1.6,104.7,75,76.4,40.9,29.3,29.84,53.3,30.4,33.4,51.4,44.6,43,110.26,Good Response,71.92,Good Response,107,78,90,5.6,Non-diabetic,4.4,Non-diabetic,4.9,Non-diabetic,36,37,41,38,29,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,2,2,4,Active
-99,42,1.62,108.3,85.2,82.3,41.27,32.46,31.36,54.6,41.5,37.4,53.7,43.7,44.9,45.42,Poor Respnse,69.33,Good Response,120,93,90,5.9,Non-diabetic,4.6,Non-diabetic,4.9,Non-diabetic,39,26,41,35,25,24,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,45,60,Active,30,2,4,4,Active
-42,49,1.65,121.3,82.1,93.6,44.55,30.16,34.38,44.9,13.9,23.5,76.4,68.2,70.1,30.33,Poor Respnse,47.83,Poor Respnse,126,90,113,6.1,Non-diabetic,5.4,Non-diabetic,5.6,Non-diabetic,44,38,40,41,32,48,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,10,30,Active,30,3,5,3,Active
-37,41,1.69,112.8,83.1,85.9,39.49,29.1,30.08,58.4,35.6,38.9,54.4,47.5,47,58.3,Good Response,42.97,Poor Respnse,88,77,98,5.1,Non-diabetic,3.8,Non-diabetic,4.9,Non-diabetic,41,32,40,42,33,39,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,30,5,5,3,Active
-230,55,1.57,99.7,66.1,70.4,40.45,26.82,28.56,53.1,32.2,37.5,46.6,33.9,32.9,130.97,Good Response,110.12,Good Response,83,75,99,5.1,Non-diabetic,3.6,Non-diabetic,5,Non-diabetic,5.4,63,39,41,46,38,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,50,60,Active,60,3,4,5,Active
-51,54,1.51,111.3,78.2,83.9,48.81,34.3,36.8,57.4,34.3,38.9,53.9,43.9,45,72.51,Good Response,51.45,Good Response,93,88,94,4.3,Non-diabetic,3.9,Non-diabetic,4.9,Non-diabetic,56,54,39,64,54,43,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,5,5,3,Active
-58,41,1.76,122.1,92.1,105.8,39.42,29.73,34.16,59.1,42.8,53.1,63,49.3,52.7,50,Poor Respnse,54.69,Good Response,115,100,91,6.3,Non-diabetic,5.3,Non-diabetic,4.9,Non-diabetic,44,41,38,43,39,40,Aerobic,Aerobic,Aerobic,Low,Low,Low,30,30,Active,30,5,5,3,Active
-68,38,1.62,113.4,76.1,84.5,43.21,29,32.2,49.8,20.9,27.7,63.6,55.2,56.8,89.63,Good Response,57.58,Good Response,94,92,119,5.1,Non-diabetic,5,Non-diabetic,5.7,Non-diabetic,49,36,38,32,29,30,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,30,3,3,3,Active
-117,56,1.6,112.7,74.6,75.9,44.02,29.14,29.65,55.8,25.8,26.4,56.9,48.8,49.5,69.68,Good Response,72.66,Good Response,101,80,91,5.8,Non-diabetic,5,Non-diabetic,5.2,Non-diabetic,49,36,38,32,29,30,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,5,5,4,Active
-158,36,1.5,112.1,72.3,66.9,49.82,32.13,29.73,62.1,30.1,26.7,50,42.2,40.2,107.92,Good Response,81.77,Good Response,104,90,119,5.5,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,38,32,38,42,25,31,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,3,4,Active
-241,57,1.5,109.4,68.3,71.6,48.62,30.36,31.82,59.8,27.9,30.2,49.6,40.4,41.4,99.55,Good Response,121.9,Good Response,91,91,84,5.1,Non-diabetic,5,Non-diabetic,4.8,Non-diabetic,38,32,38,42,25,31,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,20,30,Active,60,3,5,5,Active
-78,40,1.56,109.4,72.6,80.3,44.95,29.83,33,48.6,16.9,25.1,60.8,55.7,55.2,98.1,Good Response,61.83,Good Response,119,102,134,6.3,Non-diabetic,5.5,Non-diabetic,5.6,Non-diabetic,42,36,37,40,29,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,3,4,Active
-60,46,1.57,117.2,73.6,83.1,47.55,29.86,33.71,60.2,21.1,20.3,57,52.5,62.8,84.43,Good Response,55.18,Good Response,117,92,116,6.2,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,34,33,36,36,28,33,Aerobic,Aerobic & strength,Aerobic,Low,Low,Low,10,30,Active,30,2,3,3,Active
-48,39,1.59,120.8,94.2,99.9,47.78,37.26,39.52,61.5,42,47.6,59.3,52.2,52.3,39.22,Poor Respnse,50.58,Good Response,82,84,112,4.1,Non-diabetic,3.7,Non-diabetic,5.4,Non-diabetic,34,26,36,36,28,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,3,3,3,Active
-207,45,1.63,115,85.9,83.2,43.28,32.33,31.31,56.9,32.6,30.1,58.1,53.3,53.1,75.54,Good Response,99.29,Good Response,137,94,97,5.8,Non-diabetic,4.9,Non-diabetic,5,Non-diabetic,34,26,36,36,28,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,60,4,4,4,Active
-69,47,1.66,120,82.1,85.6,43.55,29.79,31.06,62.9,37.7,43.2,57.1,44.4,42.4,84.5,Good Response,58.38,Good Response,105,86,124,6.1,Non-diabetic,4.7,Non-diabetic,5.8,Non-diabetic,54,34,35,35,32,28,Aerobic,Aerobic & strength,Aerobic,Low,Low,Moderate,15,60,Active,30,3,5,3,Active
-73,39,1.6,113.9,73.3,79.3,44.49,28.63,30.98,45.4,14.1,21.8,68.5,59.2,57.5,52.31,Good Response,60.54,Good Response,94,80,135,4.8,Non-diabetic,4.9,Non-diabetic,4.9,Non-diabetic,57,32,35,45,32,26,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,30,30,Active,30,4,5,3,Active
-214,47,1.52,94.3,69.3,66.1,40.82,29.99,28.61,47.6,25.5,21.4,46.7,43.8,44.7,83.07,Good Response,104.48,Good Response,87,78,98,5,Non-diabetic,3.7,Non-diabetic,4.9,Non-diabetic,65,43,33,56,34,37,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,60,2,3,4,Active
-234,51,1.53,107.4,68.7,66.2,45.88,29.35,28.28,55.7,21.2,18,51.7,47.5,48.2,84.89,Good Response,113.44,Good Response,111,90,91,5.5,Non-diabetic,4.9,Non-diabetic,5,Non-diabetic,35,32,33,28,32,34,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,30,30,Active,60,3,2,5,Active
-169,40,1.5,92,64.6,69.8,40.89,28.71,31.02,46.6,22.1,28.1,45.4,42.5,41.7,99.07,Good Response,85.75,Good Response,101,89,95,5.5,Non-diabetic,3.9,Non-diabetic,4.9,Non-diabetic,35,32,33,28,32,34,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,20,45,Active,30,1,2,4,Active
-131,41,1.61,106.1,79.5,76.2,40.93,30.67,29.4,53.8,31.5,27.4,52.3,48,48.8,104.03,Good Response,76.6,Good Response,123,77,86,6.3,Non-diabetic,3.6,Non-diabetic,4.6,Non-diabetic,35,32,33,28,32,34,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,45,60,Active,30,3,3,4,Active
-140,43,1.58,120.4,80.5,83.9,48.23,32.25,33.61,60.7,26.9,29.1,59.7,53.6,54.8,86.18,Good Response,78.76,Good Response,98,90,128,5.1,Non-diabetic,4.8,Non-diabetic,5.6,Non-diabetic,37,18,33,43,19,25,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,1,2,4,Active
-70,45,1.61,106.1,79.5,82.9,40.93,30.67,31.98,53.8,33.5,37.4,52.3,46,45.5,50.3,Good Response,58.73,Good Response,99,81,115,5.5,Non-diabetic,4.5,Non-diabetic,5.6,Non-diabetic,46,40,32,48,27,32,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Low,30,60,Active,30,3,4,3,Active
-222,51,1.5,113.5,77,82.1,50.44,34.22,36.49,63.1,38.7,41.9,50.4,38.3,40.2,85.81,Good Response,107.83,Good Response,147,92,94,6.2,Non-diabetic,4.7,Non-diabetic,4.8,Non-diabetic,5.6,39,32,30,42,39,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,15,30,Active,60,2,5,5,Active
-76,61,1.54,111,71,76.6,46.8,29.94,32.3,56,23.5,28.9,55,47.5,47.7,84.91,Good Response,61.71,Good Response,103,85,89,6.1,Non-diabetic,4.5,Non-diabetic,4.8,Non-diabetic,28,32,32,27,16,15,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,30,Active,30,3,5,4,Active
-129,56,1.59,105,76.7,80.7,41.53,30.34,31.92,53.6,34.8,31.2,51.4,41.9,49.5,87.25,Good Response,76.26,Good Response,95,70,101,5,Non-diabetic,3.8,Non-diabetic,5.3,Non-diabetic,25,32,32,34,26,28,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,45,60,Active,30,3,4,4,Active
-177,35,1.61,112.2,72.1,77.2,43.29,27.82,29.78,56,26.8,32.8,56.2,45.3,44.4,85.55,Good Response,87.67,Good Response,101,88,100,5.4,Non-diabetic,4.3,Non-diabetic,5,Non-diabetic,25,32,32,34,26,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,30,1,4,4,Active
-89,40,1.59,110.1,82.2,85.7,43.55,32.51,33.9,58.8,35.9,37.2,51.3,46.3,48.5,23.34,Poor Respnse,66.32,Good Response,105,84,82,5.5,Non-diabetic,4.8,Non-diabetic,4.8,Non-diabetic,25,32,32,34,26,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,3,2,4,Active
-119,52,1.6,101.5,72,80.8,39.65,28.13,31.56,51,24.3,29.9,50.5,47.7,50.9,101.95,Good Response,73.53,Good Response,95,89,119,5.3,Non-diabetic,4.2,Non-diabetic,5.5,Non-diabetic,31,30,32,32,26,33,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,20,45,Active,30,2,1,4,Active
-53,46,1.76,118,90.9,101.3,38.09,29.35,32.7,60.1,39,48.6,57.9,51.9,52.7,43.49,Poor Respnse,52.09,Good Response,164,102,102,7.1,Diabetic,5.5,Non-diabetic,5,Non-diabetic,31,30,32,32,26,33,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,3,5,3,Active
-237,51,1.52,98.6,68.5,66.4,42.68,29.65,28.74,53.2,27.8,25.4,45.4,40.7,41,112.21,Good Response,115.39,Good Response,93,88,92,4.9,Non-diabetic,4.4,Non-diabetic,4.9,Non-diabetic,56,28,32,61,29,38,Aerobic,Aerobic,Aerobic & strength,Low,Moderate,Moderate,30,45,Active,60,1,2,5,Active
-22,35,1.64,116.4,77.6,79.1,43.28,28.85,29.41,52.2,22.8,21.5,64.2,54.8,57.6,42.99,Poor Respnse,32.5,Poor Respnse,111,83,91,5.6,Non-diabetic,5,Non-diabetic,4.8,Non-diabetic,56,28,32,61,29,38,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,10,30,Active,30,2,5,4,Active
-226,49,1.48,94,67.7,70.4,42.91,30.91,32.14,52.2,30.7,35.2,41.8,37,35.2,80.25,Good Response,108.25,Good Response,111,91,90,5.5,Non-diabetic,4,Non-diabetic,4.9,Non-diabetic,4.8,25,32,32,34,26,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,60,1,1,5,Active
-132,46,1.55,113.6,70.8,68.4,47.28,29.47,28.47,54.7,17.9,15.5,58.9,52.9,52.9,75.82,Good Response,76.79,Good Response,105,89,87,5.6,Non-diabetic,4.2,Non-diabetic,4.8,Non-diabetic,28,18,32,32,17,27,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,3,3,4,Active
-235,45,1.51,97.9,65.8,69.1,42.94,28.86,30.31,48.9,21.1,25.7,49,44.7,43.4,113.51,Good Response,114.05,Good Response,95,74,86,4.5,Non-diabetic,3.7,Non-diabetic,4.8,Non-diabetic,28,18,32,32,17,27,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,45,Active,60,3,3,5,Active
-112,56,1.59,117.6,84.6,91.3,46.52,33.46,36.11,61.6,38,45.2,56,46.6,46.1,46.86,Poor Respnse,71.34,Good Response,95,85,112,4.9,Non-diabetic,4.6,Non-diabetic,5.3,Non-diabetic,25,18,32,34,26,35,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,20,30,Active,30,2,5,4,Active
-63,43,1.63,119.3,85.9,89.3,44.9,32.33,33.61,49.9,25.1,33.4,69.4,60.8,55.9,80.32,Good Response,55.94,Good Response,86,83,93,5.5,Non-diabetic,4.7,Non-diabetic,4.6,Non-diabetic,25,18,32,34,26,35,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,3,3,3,Active
-145,45,1.61,100.1,74,73.1,38.62,28.55,28.2,43.9,25.4,27.8,56.2,48.6,45.3,99.93,Good Response,79.52,Good Response,97,72,195,5.4,Non-diabetic,3.5,Non-diabetic,6.9,Non-diabetic,32,27,31,21,18,28,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,20,45,Active,30,3,3,4,Active
-83,51,1.66,118.8,78.2,83.9,43.11,28.38,30.45,58.3,28,37.2,60.5,50.2,46.7,59.74,Good Response,63.49,Good Response,92,84,96,4.1,Non-diabetic,4,Non-diabetic,4.9,Non-diabetic,55,32,30,56,39,34,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,60,Active,30,3,3,4,Active
-123,45,1.61,119.3,80,84.1,46.02,30.86,32.44,62,30.2,34.1,57.3,49.8,50,63.16,Good Response,74.66,Good Response,268,85,81,8.4,Diabetic,4.1,Non-diabetic,4.7,Non-diabetic,55,32,30,56,39,34,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,30,Active,30,2,3,4,Active
-85,38,1.64,122,80.1,91.7,45.36,29.78,34.09,49.1,22.2,33.4,72.9,57.9,58.3,63.89,Good Response,64.33,Good Response,129,96,134,6.8,Diabetic,4.6,Non-diabetic,5.6,Non-diabetic,39,32,30,42,39,40,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,3,3,4,Active
-125,36,1.63,112,72.1,68,42,27.14,25.59,49.1,23.5,21.3,62.9,46.6,46.7,113.55,Good Response,75.24,Good Response,100,89,141,5.7,Non-diabetic,4.4,Non-diabetic,5.6,Non-diabetic,39,32,30,42,39,40,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,3,4,Active
-80,48,1.58,121.7,89.9,85.1,48.75,36.01,34.09,64.1,41.4,37.8,57.6,48.5,47.3,33.57,Poor Respnse,62.82,Good Response,255,102,148,8.1,Diabetic,5.3,Non-diabetic,5.7,Non-diabetic,36,32,30,30,28,26,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,30,Active,30,3,5,4,Active
-79,51,1.69,117,82.7,76.9,40.96,28.96,26.92,59.2,30.8,24.7,57.8,51.9,52.2,50.53,Good Response,62.55,Good Response,100,91,101,5.7,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,51,29,30,45,28,26,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,15,30,Active,30,3,5,4,Active
-178,45,1.61,110.8,74.3,72.3,42.75,28.66,27.89,69,43.7,41.5,41.8,30.6,30.8,63.49,Good Response,87.79,Good Response,98,86,89,5,Non-diabetic,4.6,Non-diabetic,4.5,Non-diabetic,31,24,30,21,19,21,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,20,30,Active,30,4,5,4,Active
-205,55,1.53,88.3,67.2,70.3,37.72,28.71,30.03,36.2,21.3,24.3,52.1,45.9,46,79.57,Good Response,98.19,Good Response,114,100,117,5.4,Non-diabetic,5.4,Non-diabetic,5.7,Non-diabetic,38,32,29,37,29,30,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,60,2,2,4,Active
-46,45,1.54,120,91.2,98.7,50.6,38.46,41.62,63.8,40.1,48.4,56.2,51.1,50.3,74.26,Good Response,48.89,Poor Respnse,171,96,100,7.3,Diabetic,5.4,Non-diabetic,5,Non-diabetic,38,32,29,37,29,30,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,10,30,Active,30,3,3,3,Active
-82,45,1.65,101.7,77.5,84.2,37.36,28.47,30.93,37.5,16.4,21.8,64.2,61.1,62.4,56.94,Good Response,63.25,Good Response,100,79,99,5.8,Non-diabetic,3.9,Non-diabetic,5.2,Non-diabetic,32,32,29,36,25,24,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,45,Active,30,1,1,4,Active
-122,55,1.61,109.1,72.2,73.5,42.09,27.85,28.36,56.8,24.8,26.1,52.3,47.4,47.4,91.64,Good Response,74.61,Good Response,97,83,90,5,Non-diabetic,4,Non-diabetic,4.8,Non-diabetic,32,32,29,36,25,24,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,30,45,Active,30,2,2,4,Active
-92,38,1.7,120,82.3,87.4,41.52,28.48,30.24,58,25.7,33,62,56.6,54.4,85.52,Good Response,67.06,Good Response,78,71,117,4,Non-diabetic,3.6,Non-diabetic,5.5,Non-diabetic,26,26,29,34,31,29,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,30,Active,30,5,5,4,Active
-45,36,1.61,108.8,79.5,86.6,41.97,30.67,33.41,56.2,27.6,35.4,52.6,51.9,51.2,106.03,Good Response,48.84,Poor Respnse,95,87,125,4.7,Non-diabetic,4.2,Non-diabetic,5.6,Non-diabetic,43,21,29,41,19,16,Aerobic,Aerobic,Aerobic,Low,Low,Low,30,30,Active,30,2,3,3,Active
-8,53,1.67,114.7,87.7,90.3,41.13,31.45,32.38,58.9,38.5,41.6,55.8,49.2,48.7,63.54,Good Response,19.89,Poor Respnse,91,79,118,6.4,Non-diabetic,4,Non-diabetic,5.5,Non-diabetic,95,42,28,87,45,39,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,30,30,Active,30,2,3,1,Active
-29,62,1.58,113.8,77.1,86.8,45.59,30.88,34.77,61,29.4,23.9,52.8,47.7,62.9,83.69,Good Response,38.36,Poor Respnse,133,81,115,6.9,Diabetic,3.9,Non-diabetic,5.7,Non-diabetic,48,32,28,49,24,33,Aerobic,Aerobic,Aerobic,Low,Low,Low,20,60,Active,30,5,5,1,Active
-161,39,1.63,112.8,77.4,78.2,42.46,29.13,29.43,48.9,21.3,22.1,63.9,56.1,56.1,74.23,Good Response,83.39,Good Response,186,96,105,6.7,Diabetic,4,Non-diabetic,5.2,Non-diabetic,48,32,28,49,24,33,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,30,3,5,4,Active
-167,56,1.58,113.1,79.2,85.1,45.31,31.73,34.09,59.8,36.2,41.2,53.3,43,43.9,41.32,Poor Respnse,85.21,Good Response,98,83,121,5.1,Non-diabetic,4.4,Non-diabetic,5.7,Non-diabetic,25,27,28,26,32,18,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,5,4,Active
-106,35,1.61,118.7,85.2,92.3,45.79,32.87,35.61,55,31,38.3,63.7,54.2,54,44.79,Poor Respnse,69.78,Good Response,99,83,112,5,Non-diabetic,4.6,Non-diabetic,5.5,Non-diabetic,25,27,28,26,32,18,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,60,Active,30,3,3,4,Active
-47,38,1.68,112.1,80.1,83.6,39.72,28.38,29.62,49.1,25.2,28.9,63,54.9,54.7,93.07,Good Response,48.94,Poor Respnse,88,64,89,5.2,Non-diabetic,3.5,Non-diabetic,4.9,Non-diabetic,29,21,28,27,19,20,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,3,3,4,Active
-35,65,1.59,110,78,75.4,43.51,30.85,29.82,57,30.2,26.8,53,47.8,48.6,69.23,Good Response,41.88,Poor Respnse,125,99,105,6.1,Non-diabetic,5.2,Non-diabetic,5.5,Non-diabetic,29,18,28,35,21,25,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,4,3,3,Active
-187,35,1.52,108.1,71.6,80.3,46.79,30.99,34.76,52.1,32.8,37.2,56,38.8,43.1,91.24,Good Response,92,Good Response,94,86,105,5.1,Non-diabetic,4.6,Non-diabetic,5,Non-diabetic,5.6,43,27,18,47,21,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,45,Active,45,2,4,4,Active
-6,46,1.71,120.7,81.2,85.1,41.28,27.77,29.1,61.2,30.1,34.5,59.5,51.1,50.6,37.06,Poor Respnse,15.57,Poor Respnse,129,96,92,5.7,Non-diabetic,5.1,Non-diabetic,4.9,Non-diabetic,33,32,27,31,21,18,Aerobic,Aerobic,Aerobic,Moderate,Moderate,Moderate,15,30,Active,30,3,3,3,Active
-74,43,1.59,110.5,76.2,88.2,43.71,30.14,34.89,57.3,32.6,42.9,53.2,43.6,45.3,87.45,Good Response,60.59,Good Response,133,106,124,5.9,Non-diabetic,5.4,Non-diabetic,5.7,Non-diabetic,32,25,27,33,21,32,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,15,45,Active,30,3,3,4,Active
-182,54,1.52,96.1,67.1,72.6,41.59,29.04,31.42,51.6,29.8,32.9,44.5,37.3,39.7,98.54,Good Response,90.67,Good Response,93,87,112,4.7,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,4.9,39,26,41,35,25,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,20,45,Active,45,1,3,4,Active
-75,55,1.43,109.5,80,85.1,53.55,39.12,41.62,64,38,40.7,45.5,42,44.4,110.92,Good Response,61.34,Good Response,120,96,104,6.3,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,35,34,26,24,22,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,1,1,4,Active
-186,50,1.52,116.4,72.2,77.5,50.38,31.25,33.54,63.2,22.8,25.6,53.2,49.4,51.9,62.69,Good Response,91.67,Good Response,94,88,112,5.3,Non-diabetic,4.2,Non-diabetic,5.5,Non-diabetic,5.6,34,26,28,38,22,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,45,1,3,4,Active
-208,41,1.55,109.9,74.3,76.7,45.74,30.93,31.93,50.7,15.9,17.2,59.2,58.4,59.5,79.95,Good Response,99.77,Good Response,102,85,109,5.3,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,56,28,26,58,43,44,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,60,3,3,4,Active
-81,56,1.66,112,84.1,90.3,40.64,30.52,32.77,58.9,38,44.6,53.1,46.1,45.7,45.41,Poor Respnse,63.11,Good Response,184,87,111,7.3,Diabetic,4.2,Non-diabetic,5.5,Non-diabetic,41,28,26,34,32,28,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,30,60,Active,30,2,5,4,Active
-229,52,1.51,111.3,78.2,75.3,48.81,34.3,33.02,57.4,34.3,31.2,53.9,43.9,44.1,62.04,Good Response,109.53,Good Response,94,73,86,5.1,Non-diabetic,3.7,Non-diabetic,4,Non-diabetic,5.5,26,26,29,34,31,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,45,Active,60,4,4,5,Active
-181,44,1.48,92.7,64,60.5,42.32,29.22,27.62,48.1,25.2,23.1,44.6,38.8,37.4,121.87,Good Response,89.16,Good Response,92,83,92,4.9,Non-diabetic,4.2,Non-diabetic,5,Non-diabetic,5.6,27,25,28,26,29,Aerobic,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,45,60,Active,30,2,4,4,Active
-50,40,1.6,110.4,73.7,83.9,43.13,28.79,32.77,52.9,20.8,29.2,57.5,52.9,54.7,95.42,Good Response,51.28,Good Response,89,83,108,4.7,Non-diabetic,4.3,Non-diabetic,5.5,Non-diabetic,37,26,25,45,33,39,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,20,30,Active,30,4,4,3,Active
-172,57,1.56,110.7,76.4,87.3,45.49,31.39,35.87,59.6,37.2,43.1,51.1,39.2,44.2,89.23,Good Response,86.64,Good Response,113,81,113,5.1,Non-diabetic,4,Non-diabetic,5.6,Non-diabetic,29,25,25,18,22,22,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,30,30,Active,30,4,5,4,Active
-124,54,1.67,119.9,80.3,88.5,42.99,28.79,31.73,61.7,31.1,37.1,58.2,49.2,51.4,87.05,Good Response,75.24,Good Response,86,80,121,4.3,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,29,25,25,18,22,22,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,20,30,Active,30,2,3,4,Active
-151,42,1.55,106.1,65.4,73.5,44.16,27.22,30.59,53.2,21.7,30.2,52.9,43.7,43.3,98.97,Good Response,80.6,Good Response,115,108,139,6,Non-diabetic,5.5,Non-diabetic,5.6,Non-diabetic,21,17,25,25,20,32,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,2,3,4,Active
-36,66,1.62,123,77.6,84.6,46.87,29.57,32.24,64,32,38.2,59,45.6,46.4,82.72,Good Response,42.36,Poor Respnse,99,84,113,6,Non-diabetic,4.3,Non-diabetic,5.6,Non-diabetic,21,17,25,27,19,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,10,30,Active,30,3,3,2,Active
-135,47,1.56,101.3,76.7,79.1,41.63,31.52,32.5,51.8,29,31.2,49.5,47.7,47.9,87.47,Good Response,77.36,Good Response,139,89,112,6.2,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,21,17,25,25,20,32,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,30,60,Active,30,2,2,4,Active
-156,57,1.5,93.7,65.1,75.9,41.64,28.93,33.73,49,25.1,32.1,44.7,40,43.8,114.06,Good Response,81.26,Good Response,91,91,127,4.8,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,46,32,24,47,18,31,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,15,45,Active,30,2,3,4,Active
-239,48,1.5,100.2,65.8,63.4,44.53,29.24,28.18,52.1,19.5,17,48.1,46.3,46.4,108.68,Good Response,117.05,Good Response,96,89,99,4.9,Non-diabetic,4.3,Non-diabetic,5.2,Non-diabetic,46,32,24,47,18,31,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,20,45,Active,60,2,4,5,Active
-217,52,1.53,106.5,70.5,75.4,45.5,30.12,32.21,49.1,21.1,25.3,57.4,49.4,50.1,111.87,Good Response,104.78,Good Response,103,97,115,5.4,Non-diabetic,4.8,Non-diabetic,5.5,Non-diabetic,35,26,24,32,21,39,Aerobic,Aerobic,Aerobic & strength,Moderate,Moderate,Moderate,45,45,Active,60,3,4,4,Active
-10,51,1.68,118.7,90.2,94.3,42.06,31.96,33.41,54.7,34.3,37.6,64,55.9,56.7,30.13,Poor Respnse,24.73,Poor Respnse,97,86,89,5.5,Non-diabetic,4,Non-diabetic,4.9,Non-diabetic,35,26,24,32,21,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,4,5,3,Active
-163,42,1.53,93.8,67,74.8,40.07,28.62,31.95,47.9,28.9,34.7,45.9,38.1,40.1,120.12,Good Response,83.88,Good Response,106,90,117,5.5,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,25,23,23,28,20,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,50,Active,30,2,2,4,Active
-88,35,1.68,110.4,80.9,86.2,39.12,28.66,30.54,56.1,30.4,34.2,54.3,50.5,52,50.79,Good Response,65.85,Good Response,128,88,85,6.1,Non-diabetic,4.1,Non-diabetic,4.5,Non-diabetic,27,21,23,32,25,24,Aerobic,Aerobic & strength,Aerobic & strength,Low,Moderate,Moderate,15,30,Active,30,5,5,4,Active
-96,37,1.69,115.4,81.3,75.6,40.4,28.47,26.47,62.3,33.7,29.7,53.1,47.6,45.9,27.64,Poor Respnse,68.48,Good Response,152,97,90,6.3,Non-diabetic,5,Non-diabetic,4.9,Non-diabetic,23,20,23,32,18,25,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,4,4,4,Active
-115,65,1.6,123,76.8,86.7,48.05,30,33.87,69.3,29.5,35.2,53.7,47.3,51.5,93.86,Good Response,72.35,Good Response,106,89,128,6,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,21,30,22,32,19,23,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,3,3,4,Active
-225,39,1.52,101.5,68.9,66.3,43.93,29.82,28.7,51.2,17.5,16.2,50.3,51.4,50.1,77.35,Good Response,108.15,Good Response,93,88,85,4.8,Non-diabetic,4.2,Non-diabetic,4.6,Non-diabetic,4.5,27,21,23,32,25,Aerobic & strength,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,45,60,Active,60,2,4,5,Active
-203,55,1.53,120,76.1,79.3,51.26,32.51,33.88,54,15.4,17.8,66,60.7,61.5,46.51,Poor Respnse,97.67,Good Response,123,91,120,5.6,Non-diabetic,4.5,Non-diabetic,5.8,Non-diabetic,28,20,21,24,21,18,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,60,Active,60,4,4,4,Active
-44,37,1.56,117.5,80.8,85.7,48.28,33.2,35.22,61.2,34,39.8,56.3,46.8,45.9,87.3,Good Response,48.56,Poor Respnse,86,70,106,5.1,Non-diabetic,3.9,Non-diabetic,5.3,Non-diabetic,28,20,21,24,21,18,Aerobic,Aerobic,Aerobic,Low,Low,Low,15,30,Active,30,2,3,3,Active
-218,36,1.67,101.4,76.6,79.7,36.36,27.47,28.58,36.9,17.8,22.1,64.5,58.8,57.6,88.34,Good Response,105.26,Good Response,102,75,93,5.5,Non-diabetic,3.7,Non-diabetic,4.6,Non-diabetic,56,19,21,49,30,35,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,60,1,2,5,Active
-41,54,1.69,117.9,86.4,95.2,41.28,30.25,33.33,53.2,29.4,39.4,64.7,57,55.8,44.23,Poor Respnse,47.29,Poor Respnse,161,83,108,7.3,Diabetic,5.4,Non-diabetic,5.5,Non-diabetic,28,17,21,32,15,31,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,3,3,2,Active
-137,38,1.5,103.7,67.9,71.5,46.09,30.18,31.78,48.3,22.7,25.4,55.4,45.2,46.1,79.71,Good Response,78.14,Good Response,71,76,118,3.8,Non-diabetic,3.9,Non-diabetic,5.5,Non-diabetic,25,17,21,29,15,31,Aerobic & strength,Aerobic & strength,Aerobic & strength,Moderate,Moderate,Moderate,45,45,Active,30,3,3,4,Active
-159,54,1.52,120.7,77.9,80.1,52.24,33.72,34.67,67.3,43.2,49.8,53.4,34.7,30.3,108.99,Good Response,82.67,Good Response,84,77,117,5.1,Non-diabetic,3.8,Non-diabetic,5.3,Non-diabetic,25,17,21,29,15,31,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,30,Active,30,2,3,4,Active
-242,49,1.59,104,74.7,76.4,41.14,29.55,30.22,52.5,32.5,33.9,51.5,42.2,42.5,76.64,Good Response,122.84,Good Response,189,85,92,7.9,Diabetic,4.6,Non-diabetic,4.2,Non-diabetic,25,17,21,29,15,31,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,60,1,2,5,Active
-55,52,1.54,120.7,87.4,98.2,50.89,36.85,41.41,64.9,41.5,46.7,55.8,45.9,51.5,65.31,Good Response,52.53,Good Response,162,124,123,6.9,Diabetic,5.7,Non-diabetic,5.5,Non-diabetic,19,21,20,23,18,25,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Low,30,30,Active,30,1,2,3,Active
-152,55,1.52,110.7,76,78.8,47.91,32.89,34.11,53.8,27.8,29.4,56.9,48.2,49.4,40.06,Poor Respnse,80.61,Good Response,105,89,104,5.5,Non-diabetic,4.6,Non-diabetic,5.5,Non-diabetic,19,21,20,23,18,25,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,15,30,Active,30,3,5,4,Active
-71,47,1.76,119.6,86.3,92.9,38.61,27.86,29.99,53.1,25.1,31.7,66.5,61.2,61.2,46.04,Poor Respnse,58.87,Good Response,94,78,119,4.7,Non-diabetic,4.3,Non-diabetic,5.7,Non-diabetic,35,18,20,43,30,32,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,20,30,Active,30,3,3,3,Active
-212,39,1.6,115.3,74.5,78.6,45.04,29.1,30.7,61.3,27.1,34.7,54,47.4,43.9,73.21,Good Response,103.44,Good Response,110,96,133,5.5,Non-diabetic,4.9,Non-diabetic,5.7,Non-diabetic,28,16,20,27,18,30,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,30,30,Active,60,2,3,4,Active
-104,44,1.63,111.7,79.6,85.5,42.04,29.96,32.18,56.3,30.5,37.1,55.4,49.1,48.4,64.73,Good Response,69.59,Good Response,87,98,122,5,Non-diabetic,5,Non-diabetic,5.6,Non-diabetic,43,27,18,47,21,18,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,30,3,3,4,Active
-15,46,1.47,121.9,85.8,102.3,56.41,39.71,47.34,65.9,31.3,50.9,56,54.5,51.4,23.34,Poor Respnse,28.79,Poor Respnse,108,94,108,5.6,Non-diabetic,4.8,Non-diabetic,5.4,Non-diabetic,43,27,18,47,21,18,Aerobic,Aerobic,Aerobic,Low,Moderate,Low,15,30,Active,30,3,3,1,Active
-209,48,1.54,103.2,69.4,68.5,43.51,29.26,28.88,54.2,28.9,28,49,40.5,40.5,89.24,Good Response,100.59,Good Response,80,83,91,4.1,Non-diabetic,4.5,Non-diabetic,4.9,Non-diabetic,54,26,18,63,33,35,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,60,1,2,4,Active
-61,42,1.57,117.1,75.7,80.6,47.51,30.71,32.7,61.7,32.3,37.4,55.4,43.4,43.2,80.26,Good Response,55.24,Good Response,160,99,94,7.2,Diabetic,4.8,Non-diabetic,5,Non-diabetic,27,26,18,18,19,21,Aerobic,Aerobic,Aerobic,Low,Low,Low,10,30,Active,30,1,3,3,Active
-195,51,1.57,113,73.8,73,45.84,29.94,29.62,47.8,18,19.1,65.2,55.8,53.9,116.72,Good Response,94.93,Good Response,127,96,91,6.1,Non-diabetic,4.8,Non-diabetic,5,Non-diabetic,27,26,18,18,19,21,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,15,30,Active,45,4,5,4,Active
-193,63,1.56,93.4,74.7,83.7,38.38,30.7,34.39,47.7,27.1,36.5,45.7,47.6,47.2,104.62,Good Response,94.51,Good Response,96,82,106,5.1,Non-diabetic,3.9,Non-diabetic,5.2,Non-diabetic,21,23,18,32,24,28,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,45,1,1,4,Active
-49,53,1.61,120,83,82.4,46.29,32.02,31.79,64.3,34.4,31.4,55.7,48.6,51,68.32,Good Response,50.93,Good Response,161,85,100,6.9,Diabetic,5.1,Non-diabetic,5.4,Non-diabetic,29,21,18,31,25,26,Aerobic,Aerobic,Aerobic,Low,Moderate,Moderate,20,30,Active,30,2,3,3,Active
-102,38,1.61,120.6,79.3,82.6,46.53,30.59,31.87,66,37.1,41.5,54.6,42.2,41.1,66.2,Good Response,69.41,Good Response,85,81,112,5,Non-diabetic,4.7,Non-diabetic,5.5,Non-diabetic,27,17,18,28,17,17,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,20,30,Active,30,5,5,4,Active
-220,35,1.62,113.2,78.8,74.5,43.13,30.03,28.39,57.4,30.4,24.5,55.8,48.4,50,75.39,Good Response,106.26,Good Response,180,90,95,8.1,Diabetic,5.8,Non-diabetic,4,Non-diabetic,27,17,18,28,17,22,Aerobic,Aerobic,Aerobic & strength,Low,Low,Moderate,15,30,Inactive,60,4,4,5,Active
-166,58,1.56,101.3,67,70.6,41.63,27.53,29.01,51.2,23.8,27.4,50.1,43.2,43.2,94.92,Good Response,84.79,Good Response,79,83,124,5,Non-diabetic,4.4,Non-diabetic,5.5,Non-diabetic,32,16,18,27,25,19,Aerobic,Aerobic & strength,Aerobic,Low,Moderate,Moderate,30,45,Active,30,2,3,4,Active
-105,41,1.61,117.3,82.6,93.9,45.25,31.87,36.23,59.9,33.8,45.7,57.4,48.8,48.2,86.13,Good Response,69.6,Good Response,87,90,100,5.2,Non-diabetic,5.1,Non-diabetic,5.3,Non-diabetic,32,16,18,27,25,19,Aerobic,Aerobic,Aerobic,Low,Low,Moderate,30,30,Active,30,3,3,4,Active
-210,42,1.52,111.6,76.1,84.7,48.3,32.94,36.66,58.4,30.7,36.1,53.2,45.4,48.6,62.79,Good Response,100.86,Good Response,104,96,111,5.5,Non-diabetic,4.9,Non-diabetic,5.6,Non-diabetic,43,18,17,42,21,25,Aerobic,Aerobic & strength,Aerobic & strength,Low,Low,Moderate,20,30,Active,60,3,5,4,Active
+PatientNo	age	Height	WTpre	WT12	WT48	BMIPpre	BMI12	BMI48	FMpre	FM12	FM48	FFMpre	FFM12	FFM48	EWL12	Sucs12	EWL48	Sucs48	FBSpre	FBS12	FBS48	a1cpre	DMpre	a1c12	DM12	a1c48	DM48	astpre	ast12	ast48	altpre	alt12	alt48	EXTYPEpre	EXTYPE12	EXTYPE48	INTENpre	INTEN12	INTEN48	MINDAYpre	MINDAY12	ExcerciseActivitiy12	MINDAY48	SWpre	SW12	SW48	Activity_Grade
+147	58	1.65	106.9	75.9	73.1	39.27	27.88	26.85	54.1	28.9	24.6	52.8	47	48.5	72.66	Good Response	79.91	Good Response	84	75	84	4.8	Non-diabetic	4.1	Non-diabetic	4.4	Non-diabetic	42	28	87	45	39	37	Aerobic	Aerobic	Aerobic	Low	Low	Moderate	10	10	Inactive	30	2	2	4	Partly Active
+118	38	1.6	106.7	73.2	76.4	41.68	28.59	29.84	53.6	28.5	32.3	53.1	44.7	44.1	93.64	Good Response	72.93	Good Response	115	107	154	5.9	Non-diabetic	5.3	Non-diabetic	6	Non-diabetic	85	65	56	73	62	60	Aerobic	Aerobic	Aerobic	Low	Low	Moderate	10	10	Inactive	30	1	2	4	Partly Active
+65	56	1.6	101.8	76.8	80.1	39.77	30	31.29	50.6	35.9	39.7	51.2	40.9	40.4	61.34	Good Response	56.48	Good Response	86	66	100	5	Non-diabetic	3.7	Non-diabetic	5	Non-diabetic	78	65	54	46	39	38	Aerobic	Aerobic	Aerobic	Low	Low	Low	10	10	Inactive	30	1	1	3	Partly Active
+174	46	1.75	109.5	83.4	89.1	35.76	27.23	29.09	52.3	27.6	32.1	57.2	55.8	57	76.52	Good Response	86.91	Good Response	90	86	94	5	Non-diabetic	3.9	Non-diabetic	4.9	Non-diabetic	67	56	54	72	45	45	Aerobic	Aerobic	Aerobic	Low	Low	Moderate	30	15	Inactive	30	1	2	4	Partly Active
+126	60	1.5	106.8	69	77.6	47.47	30.67	34.49	56	24.1	29.3	50.8	44.9	48.3	96.76	Good Response	75.44	Good Response	80	73	98	5.2	Non-diabetic	3.8	Non-diabetic	4.5	Non-diabetic	67	56	54	72	45	45	Aerobic	Aerobic	Aerobic	Low	Low	Moderate	10	10	Inactive	30	1	1	4	Partly Active
+28	37	1.68	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+160	38	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+175	45	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+199	35	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+21	47	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+236	35	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+232	47	1.47	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+224	54	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+56	37	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+184	39	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+32	38	1.7	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+164	46	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+197	51	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+191	41	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+198	47	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+201	43	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+148	57	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+155	42	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+192	53	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+26	56	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+194	51	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+231	54	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+7	40	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+180	31	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+211	42	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4	48	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+244	59	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+19	58	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+108	36	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+30	43	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+162	45	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+219	49	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+101	41	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+12	56	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+116	53	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+67	56	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+97	51	1.49	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+134	58	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+150	51	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+33	41	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+109	59	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+20	52	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+170	47	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+34	53	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+173	58	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+90	39	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+77	40	1.47	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+204	59	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+215	38	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+139	37	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+17	40	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+103	52	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+14	54	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+98	53	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+206	37	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+213	48	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+246	69	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+9	63	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+216	62	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+144	44	1.43	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+1	35	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+221	53	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+202	47	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+43	46	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+84	39	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+23	45	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+238	46	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+120	43	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+188	39	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+54	36	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+24	44	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+227	56	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+31	42	1.68	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+128	47	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+176	55	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+91	39	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+66	53	1.66	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+11	52	1.75	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+100	34	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+25	61	1.72	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+157	48	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+240	56	1.47	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+200	41	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+27	41	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+179	52	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+233	38	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+136	48	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+189	57	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+121	39	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+5	44	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+245	54	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+183	54	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+72	40	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+228	55	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+130	49	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+168	56	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+107	48	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+18	46	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+165	52	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+2	53	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+110	49	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+59	43	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+13	39	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16	35	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+185	39	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+3	54	1.74	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+243	61	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+141	29	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+223	36	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+149	34	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+133	54	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+52	39	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+146	50	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+143	55	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+114	45	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+86	38	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+138	57	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+127	46	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+95	53	1.7	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+87	51	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+40	44	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+171	59	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+153	39	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+190	39	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+38	42	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+111	38	1.71	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+196	52	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+62	40	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+94	39	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+57	46	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+154	43	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+39	35	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+142	68	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+93	60	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+64	44	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+113	38	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+99	42	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+42	49	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+37	41	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+230	55	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+51	54	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+58	41	1.76	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+68	38	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+117	56	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+158	36	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+241	57	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+78	40	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+60	46	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+48	39	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+207	45	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+69	47	1.66	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+73	39	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+214	47	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+234	51	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+169	40	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+131	41	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+140	43	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+70	45	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+222	51	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+76	61	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+129	56	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+177	35	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+89	40	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+119	52	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+53	46	1.76	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+237	51	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+22	35	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+226	49	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+132	46	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+235	45	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+112	56	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+63	43	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+145	45	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+83	51	1.66	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+123	45	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+85	38	1.64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+125	36	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+80	48	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+79	51	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+178	45	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+205	55	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+46	45	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+82	45	1.65	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+122	55	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+92	38	1.7	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+45	36	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8	53	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+29	62	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+161	39	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+167	56	1.58	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+106	35	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+47	38	1.68	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+35	65	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+187	35	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+6	46	1.71	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+74	43	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+182	54	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+75	55	1.43	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+186	50	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+208	41	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+81	56	1.66	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+229	52	1.51	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+181	44	1.48	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+50	40	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+172	57	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+124	54	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+151	42	1.55	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+36	66	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+135	47	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+156	57	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+239	48	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+217	52	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+10	51	1.68	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+163	42	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+88	35	1.68	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+96	37	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+115	65	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+225	39	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+203	55	1.53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+44	37	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+218	36	1.67	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+41	54	1.69	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+137	38	1.5	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+159	54	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+242	49	1.59	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+55	52	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+152	55	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+71	47	1.76	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+212	39	1.6	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+104	44	1.63	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+15	46	1.47	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+209	48	1.54	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+61	42	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+195	51	1.57	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+193	63	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+49	53	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+102	38	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+220	35	1.62	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+166	58	1.56	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+105	41	1.61	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+210	42	1.52	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
